@@ -1,5 +1,9 @@
 const byteSize = (str) => {
   // write your code here
+	return str.length;
+
+
+	
 };
 
 // Do not change the code below
